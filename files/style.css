@@ -1,5 +1,5 @@
 body {
-  width: 850px;
+  width: 900px;
   margin: 20px auto 0px;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
@@ -81,6 +81,11 @@ th {
     padding-left:20px;
     padding-right:20px;
 }
+table{
+    /* align:center; */
+		text-align:center;
+    width:900px;
+}
 table .time {
 		text-align:center;
     min-width:150px;
@@ -91,7 +96,7 @@ table .speaker {
 }
 table .title {
     /* text-align:center; */
-    min-width:400px;
+    min-width:450px;
 }
 table .highlight {
     background:#f0f0f0;
